@@ -77,8 +77,7 @@ body::-webkit-scrollbar-thumb {
 
 .section {
     font-size: 15px;
-    padding: 30px 20px;
-    z-index: 1;
+    padding: 20px;
     min-height: 400px;
 }
 .nav {
@@ -418,7 +417,9 @@ select:active{
     }
     
 }
-
+.container{
+    margin-top: 20px;
+}
 
 .loader-container {
     position: fixed;
